@@ -1,0 +1,6 @@
+.game {
+  width: 850px;
+  font-size: 18pt;
+  margin: 150px auto; /* Dikey 150px, yatayı otomatik hizalama */
+  background-color:#2c2e40
+}

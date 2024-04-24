@@ -1,0 +1,11 @@
+.admin-content{
+    margin: 24px 16px;
+    padding: 24px;
+    min-height: 825px;
+    background-color: white;
+    border: 0.02px solid white;
+    box-shadow: 5px 5px 40px;
+}
+.category-slider{
+    background-color: #1e1e1e;
+}
